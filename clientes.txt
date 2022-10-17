@@ -1,0 +1,9 @@
+1,Luigi,Almirante Alexandrino 3780,21991563640,20.80
+2,Renan,Rua São Pedro 151,21936354425,0.0
+3,Matthew,Rua Santa Rosa 300,21918002990,0.0
+4,João,Travessa Conceição 570,21980902575,10.50
+5,Thiago,Rua Padre Mauricio 140,21900314726,0.0
+6,Carlos Maia,Rua São Pedro 230,21915073007,0.0
+7,Marco Antonio,Rua Santana 907,2193640-4035,0.0
+8,Jonas Lar,Rua Botafogo 121,21941694201,0.0
+9,Simone Bisso,Rua Livramento 301,36941042009,0.0

@@ -1,0 +1,9 @@
+1,Leite,7.50
+2,Cereal,3.25
+3,Carne,21.90
+4,Arroz,10.75
+5,Feijão,5.70
+6,Aveia,2.50
+7,Maça,1.50
+8,Caramelo,8.15
+9,Frango,19.00
